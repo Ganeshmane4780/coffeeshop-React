@@ -100,6 +100,10 @@ To run the application use :- npm run dev  command.
 
 The application will run at http://localhost:5173.
 
+[ *NOTE*:-There is NODE MODULE file that i not upload because the node module file have the large files and it doesn't uploading it give some errors .
+
+You can simply download the NODE MODULE files after running the command in the terminal. The command is :- npm i  ]
+
 Feel free to customize this README.md to better fit your project's specifics and also you can make changes in the project to make it better. 
 If you need assistance with any particular section or feature, don't hesitate to ask!
 
